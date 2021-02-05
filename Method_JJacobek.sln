@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_JJacobek", "Method_JJacobek\Method_JJacobek.csproj", "{84EE69B3-5027-41DD-A310-2B1F7FA2EB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EE69B3-5027-41DD-A310-2B1F7FA2EB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EE69B3-5027-41DD-A310-2B1F7FA2EB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EE69B3-5027-41DD-A310-2B1F7FA2EB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EE69B3-5027-41DD-A310-2B1F7FA2EB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2626F0D-C12D-4318-81E1-9ECD93446681}
+	EndGlobalSection
+EndGlobal
